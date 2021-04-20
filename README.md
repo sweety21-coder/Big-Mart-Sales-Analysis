@@ -13,5 +13,5 @@ Treated with mean & mode respectively.
 2.Outlier- No outlier found in the data.
 
 3.Correlation Matrix- 
-
+(https://github.com/sweety21-coder/Big-Mart-Sales-Analysis/blob/main/img/Coorelation%20Matrix.png)
 
