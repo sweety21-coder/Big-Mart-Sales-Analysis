@@ -5,3 +5,8 @@ The data scientists at Big Mart have collected Sales data for 1559 products acro
 ### Aim-
 The aim is to build a predictive model to find out the sales of each product at a particular store so that it would help the decision makers at Big Mart to find out the properties of any product or store, which play a key role in increasing the overall sales.
 
+#### Data Cleaning-
+1.Missing value Treatment- Found missing value in 2 columns, we have 17% & 28% missing values in item weight & outlet size column respectively.
+Treated with mean & mode respectively.
+2.Outlier- No outlier found in the data.
+3.
