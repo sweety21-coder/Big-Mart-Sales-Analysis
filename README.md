@@ -14,5 +14,5 @@ Treated with mean & mode respectively.
 
 3.Correlation Matrix- 
 
-![](img/Correlation Matrix.png)
+img src="(img/Correlation Matrix.png)"
 
