@@ -14,5 +14,5 @@ Treated with mean & mode respectively.
 
 3.Correlation Matrix- 
 
-img src="(img/Correlation Matrix.png)"
+![](https://github.com/sweety21-coder/Big-Mart-Sales-Analysis/blob/main/img/Correlation%20Matrix.png)
 
