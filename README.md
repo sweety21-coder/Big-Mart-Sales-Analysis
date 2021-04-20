@@ -13,5 +13,6 @@ Treated with mean & mode respectively.
 2.Outlier- No outlier found in the data.
 
 3.Correlation Matrix- 
-![](CoorelationMatrix.png)
+
+![](img/Correlation Matrix.png)
 
